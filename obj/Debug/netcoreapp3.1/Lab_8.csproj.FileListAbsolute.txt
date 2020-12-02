@@ -1,0 +1,11 @@
+/Users/viktoria/Downloads/Lab_8/bin/Debug/netcoreapp3.1/Lab_8
+/Users/viktoria/Downloads/Lab_8/bin/Debug/netcoreapp3.1/Lab_8.deps.json
+/Users/viktoria/Downloads/Lab_8/bin/Debug/netcoreapp3.1/Lab_8.runtimeconfig.json
+/Users/viktoria/Downloads/Lab_8/bin/Debug/netcoreapp3.1/Lab_8.runtimeconfig.dev.json
+/Users/viktoria/Downloads/Lab_8/bin/Debug/netcoreapp3.1/Lab_8.dll
+/Users/viktoria/Downloads/Lab_8/bin/Debug/netcoreapp3.1/Lab_8.pdb
+/Users/viktoria/Downloads/Lab_8/obj/Debug/netcoreapp3.1/Lab_8.csprojAssemblyReference.cache
+/Users/viktoria/Downloads/Lab_8/obj/Debug/netcoreapp3.1/Lab_8.AssemblyInfoInputs.cache
+/Users/viktoria/Downloads/Lab_8/obj/Debug/netcoreapp3.1/Lab_8.AssemblyInfo.cs
+/Users/viktoria/Downloads/Lab_8/obj/Debug/netcoreapp3.1/Lab_8.dll
+/Users/viktoria/Downloads/Lab_8/obj/Debug/netcoreapp3.1/Lab_8.pdb
